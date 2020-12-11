@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+abc
+
+a
+b
+c
+
+ab
+ac
+
+a
+a
+a
+a
+
+=======
+abc
+
+a
+b
+c
+
+ab
+ac
+
+a
+a
+a
+a
+
+>>>>>>> 93e4f3d50c9370b0629b0c3b5cc1471c859e1289
+b
